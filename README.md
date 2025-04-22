@@ -3,6 +3,8 @@
 A clean, lightweight iOS app to track your daily workouts, exercise plans, and progress — built with SwiftUI, JSON persistence, and Swift Charts.  
 Designed for **speed**, **offline storage**, and **beautiful native animations**.
 
+**This is 100% AI generated**,
+
 ---
 
 ## ✨ Features
