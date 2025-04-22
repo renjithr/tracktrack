@@ -82,6 +82,6 @@ This project is licensed under the MIT License — see the [LICENSE] file for de
 
 ## ❤️ Credits
 
-Built with passion for clean UI, offline-first apps, and real-world fitness tracking.
+Built with passion for clean UI, offline-first apps, and real-world fitness tracking by AI
 
 ---
