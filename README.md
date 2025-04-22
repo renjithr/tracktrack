@@ -36,7 +36,7 @@ Designed for **speed**, **offline storage**, and **beautiful native animations**
   - Custom clean UI with consistent color themes
 
 ---
-
+![App Demo](IMG_2172.GIF)
 
 ---
 
