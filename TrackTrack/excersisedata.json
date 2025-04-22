@@ -1,0 +1,19 @@
+{
+  "dailyProgress": {
+    "2025-04-22": [
+      {
+        "exerciseName": "Push-Ups",
+        "sets": [
+          { "weight": 0, "reps": 10, "difficulty": 0.5 },
+          { "weight": 0, "reps": 8, "difficulty": 0.6 }
+        ]
+      },
+      {
+        "exerciseName": "Squats",
+        "sets": [
+          { "weight": 0, "reps": 15, "difficulty": 0.4 }
+        ]
+      }
+    ]
+  }
+}
