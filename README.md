@@ -74,7 +74,7 @@ Designed for **speed**, **offline storage**, and **beautiful native animations**
 
 ## 📄 License
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License — see the [LICENSE]([LICENSE](https://github.com/renjithr/tracktrack/blob/main/LICENSE)) file for details.
 
 ---
 
